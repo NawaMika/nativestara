@@ -1,19 +1,23 @@
-# 你好，我是 nativestara 👋
+# Hi, I'm nativestara 👋
 
-欢迎来到我的 GitHub 主页！这里会记录我正在探索的技术、参与的项目，以及一路上的学习与成长。
+Welcome to my GitHub profile. I’m a learner and builder who enjoys exploring technology, creating projects, and continuously improving my skills.
 
-## 关于我
+## About Me
 
-- 🌱 持续学习与尝试新事物
-- 💻 在这里分享项目、想法和实践
-- 🤝 欢迎交流，也欢迎一起合作
+- 🌱 Always learning and trying new things
+- 💻 Interested in software development, problem-solving, and creative ideas
+- 🤝 Open to collaboration, feedback, and meaningful conversations
 
-## 项目
+## What I’m Working On
 
-你可以在我的仓库中看看我正在做的项目。之后也可以在这里挑选几个代表作，补充项目简介和链接。
+I enjoy building small projects, experimenting with new tools, and turning ideas into practical solutions. This profile is where I share my progress, learning journey, and work.
 
-## 联系我
+## Projects
 
-- GitHub：[@nativestara](https://github.com/nativestara)
+You can explore the repositories here to see what I’m working on and the ideas I’m exploring.
 
-感谢来访！✨
+## Connect
+
+- GitHub: [@nativestara](https://github.com/nativestara)
+
+Thanks for visiting my profile! ✨
